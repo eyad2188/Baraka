@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(199 195 191);
+    padding: 0%;
+    margin: 0%;
+}
+#Title{
+    width: 1200px;
+    height: 40px;
+    background-color: rgb(161, 155, 155);
+}
+#Title ul, li{
+    list-style-type: none;
+    display: inline;
+    /* text-decoration: underline; */
+
+}
+#Title li{
+    margin-top: 7px;
+    margin-left: 60px ;
+}
+#styleIntro {
+    width: 851px;
+    height: 85px;
+    position: absolute;
+    top: 300px;
+    left: 294px;
+    background-color: darkgrey;
+}
